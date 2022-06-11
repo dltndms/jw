@@ -18,4 +18,4 @@ print(리스트)
 
 for j in 리스트:
     print(j)
-print("TOP 100 영상은>>>".리스트[0])
+print("TOP 100 영상은>>>".리스트[])
